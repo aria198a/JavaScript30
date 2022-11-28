@@ -1,2 +1,2 @@
 # JavaScript30
-JavaScript Drum Kit
+01 - JavaScript Drum Kit
